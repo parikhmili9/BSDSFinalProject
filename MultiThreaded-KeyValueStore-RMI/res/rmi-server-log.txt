@@ -1,0 +1,10 @@
+19 Nov 2022 20:40:31:516 -0500 --> Created an instance of the data (KeyValue).
+19 Nov 2022 20:40:31:521 -0500 --> Pre-populated values are: 
+ 1 - one
+ 2 - two
+ 3 - three
+ 4 - four
+ 5 - five
+19 Nov 2022 20:40:31:724 -0500 --> Registry created.
+19 Nov 2022 20:40:31:748 -0500 --> KeyValue data exported
+19 Nov 2022 20:40:31:749 -0500 --> Server has started.

@@ -1,0 +1,27 @@
+03 Oct 2022 13:53:28:509 -0400 --> Request - PUT, 5, Mili
+03 Oct 2022 13:53:28:509 -0400 --> Response - Success: PUT(5, Mili) executed.
+03 Oct 2022 13:54:18:920 -0400 --> Request - PUT, 8, jnk
+03 Oct 2022 13:54:18:920 -0400 --> Response - Success: PUT(8, jnk) executed.
+03 Oct 2022 13:55:17:739 -0400 --> Request - GET, 5
+03 Oct 2022 13:55:17:739 -0400 --> Response - Success: GET(5) = Mili
+03 Oct 2022 13:55:45:305 -0400 --> Request - DELETE, 5
+03 Oct 2022 13:55:45:305 -0400 --> Response - Success: DELETE(5) executed.
+03 Oct 2022 13:55:50:019 -0400 --> Request - GET, 5
+03 Oct 2022 13:55:50:019 -0400 --> Response - Key 5 not found.
+03 Oct 2022 13:55:57:134 -0400 --> Request - GET, 8
+03 Oct 2022 13:55:57:134 -0400 --> Response - Success: GET(8) = jnk
+03 Oct 2022 13:56:01:168 -0400 --> Request - DELETE, 8
+03 Oct 2022 13:56:01:168 -0400 --> Response - Success: DELETE(8) executed.
+03 Oct 2022 13:56:07:861 -0400 --> Request - DELETE, 8
+03 Oct 2022 13:56:07:861 -0400 --> Response - Key 8 not found.
+03 Oct 2022 13:56:23:251 -0400 --> Request - kgkbhtk
+03 Oct 2022 13:56:23:252 -0400 --> Response - Unknown command: kgkbhtk
+03 Oct 2022 13:56:25:407 -0400 --> Request - ejrbhgjr
+03 Oct 2022 13:56:25:407 -0400 --> Response - Unknown command: ejrbhgjr
+03 Oct 2022 13:56:28:163 -0400 --> Request - PUT 9
+03 Oct 2022 13:56:28:163 -0400 --> Response - Unknown command: PUT 9
+03 Oct 2022 13:56:31:168 -0400 --> Request - PUT, 9
+03 Oct 2022 13:56:31:168 -0400 --> Response - Expected exactly 2 parameters <key>, <value> but got: [9]
+03 Oct 2022 13:56:37:179 -0400 --> Request - PUT, 10, fjng
+03 Oct 2022 13:56:37:179 -0400 --> Response - Success: PUT(10, fjng) executed.
+03 Oct 2022 13:56:39:916 -0400 --> UDP Client Terminated
