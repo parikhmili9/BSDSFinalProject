@@ -1,0 +1,5 @@
+FROM openjdk:17
+COPY /out/production/Project1 /project1
+WORKDIR /project1
+# cmd to run server locally - java server.ServerApp 1111 5555
+CMD ["java", "client.TCPClient", "2025", "10.0.0.171"]

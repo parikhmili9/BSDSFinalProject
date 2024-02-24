@@ -1,0 +1,34 @@
+03 Oct 2022 23:23:27:709 -0400 --> Request - GET, 5
+03 Oct 2022 23:23:27:709 -0400 --> Response - Success: GET(5) = five
+03 Oct 2022 23:23:39:586 -0400 --> Request - GET, 4
+03 Oct 2022 23:23:39:586 -0400 --> Response - Success: GET(4) = four
+03 Oct 2022 23:23:43:687 -0400 --> Request - GET, 3
+03 Oct 2022 23:23:43:687 -0400 --> Response - Success: GET(3) = three
+03 Oct 2022 23:23:46:848 -0400 --> Request - GET, 2
+03 Oct 2022 23:23:46:848 -0400 --> Response - Success: GET(2) = two
+03 Oct 2022 23:23:50:028 -0400 --> Request - GET, 1
+03 Oct 2022 23:23:50:028 -0400 --> Response - Success: GET(1) = one
+03 Oct 2022 23:23:59:679 -0400 --> Request - PUT, 1, Hi
+03 Oct 2022 23:23:59:679 -0400 --> Response - Success: PUT(1, Hi) executed.
+03 Oct 2022 23:24:05:657 -0400 --> Request - PUT, 2, Hi
+03 Oct 2022 23:24:05:657 -0400 --> Response - Success: PUT(2, Hi) executed.
+03 Oct 2022 23:24:11:008 -0400 --> Request - PUT, 3, Hi
+03 Oct 2022 23:24:11:008 -0400 --> Response - Success: PUT(3, Hi) executed.
+03 Oct 2022 23:24:14:998 -0400 --> Request - PUT, 4, Hi
+03 Oct 2022 23:24:14:998 -0400 --> Response - Success: PUT(4, Hi) executed.
+03 Oct 2022 23:24:19:822 -0400 --> Request - PUT, 5, Hi
+03 Oct 2022 23:24:19:822 -0400 --> Response - Success: PUT(5, Hi) executed.
+03 Oct 2022 23:24:25:682 -0400 --> Request - DELETE, 5
+03 Oct 2022 23:24:25:682 -0400 --> Response - Success: DELETE(5) executed.
+03 Oct 2022 23:24:28:442 -0400 --> Request - DELETE 4
+03 Oct 2022 23:24:28:442 -0400 --> Response - Unknown command: DELETE 4
+03 Oct 2022 23:24:32:758 -0400 --> Request - DELETE, 4
+03 Oct 2022 23:24:32:758 -0400 --> Response - Success: DELETE(4) executed.
+03 Oct 2022 23:24:35:742 -0400 --> Request - DELETE, 3
+03 Oct 2022 23:24:35:742 -0400 --> Response - Success: DELETE(3) executed.
+03 Oct 2022 23:24:39:369 -0400 --> Request - DELETE, 2
+03 Oct 2022 23:24:39:369 -0400 --> Response - Success: DELETE(2) executed.
+03 Oct 2022 23:24:41:886 -0400 --> Request - DELETE, 1
+03 Oct 2022 23:24:41:886 -0400 --> Response - Success: DELETE(1) executed.
+03 Oct 2022 23:24:43:893 -0400 --> Request - Q
+03 Oct 2022 23:24:43:893 -0400 --> Disconnected the server.
