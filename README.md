@@ -1,5 +1,7 @@
 Author - Mili Parikh
+
 Time Frame - September 2022 to December 2022
+
 Languages and Tools - Java, Visual Studio Code, Docker, GitHub 
 
 These the projects I did while taking the course "Building Scalable Distributed Systems" at Khoury College of Computer Sciences, Northeastern University.
